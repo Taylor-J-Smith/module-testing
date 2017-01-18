@@ -1,3 +1,6 @@
 [submodule "m1"]
 	path = m1
 	url = /m1/.git
+[submodule "module-one-test"]
+	path = module-one-test
+	url = git@github.com:Taylor-J-Smith/module-one-test.git
